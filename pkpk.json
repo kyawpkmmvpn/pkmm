@@ -3,11 +3,11 @@
       
 {
        "name": "SG-DTAC-FREE1",
-         "url": "https://raw.githubusercontent.com/kyawpkmmvpn/pkmm/main/SG-DTAC-FREE01.ovpn"
+         "url": "https://raw.githubusercontent.com/kyawpkmmvpn/pkmm/main/SG-FREE01.ovpn"
       },
 {
        "name": "SG-DTAC-FREE2",
-         "url": "https://raw.githubusercontent.com/kyawpkmmvpn/pkmm/main/SG-DTAC-FREE2.ovpn"
+         "url": "https://raw.githubusercontent.com/kyawpkmmvpn/pkmm/main/SG-FREE01.ovpn"
       }
 
 ],
@@ -20,6 +20,6 @@
 • TRUE-NoPro
 • Quick connection⚡
 • Thank you for using😊",
-"title":"Config version - 1 ",
-   "version": 1
+"title":"Config version - 2 ",
+   "version": 2
 }

@@ -2,12 +2,12 @@
    "files": [   
       
 {
-       "name": "SG-DTAC-FREE1",
-         "url": "https://try.gitea.io/tintaungkhaing66/fnetvpn-tools/raw/branch/main/SG-CLOUDPLAY-FREE01.ovpn"
+       "name": "TH-DTAC-FREE1",
+         "url": "https://raw.githubusercontent.com/kyawpkmmvpn/pkmm/main/TH_TRUE_DTAC_NoDay_02.ovpn"
       },
 {
-       "name": "SG-DTAC-FREE2",
-         "url": "https://try.gitea.io/tintaungkhaing66/fnetvpn-tools/raw/branch/main/SG-CLOUDPLAY-FREE02.ovpn"
+       "name": "TH-DTAC-FREE2",
+         "url": "https://raw.githubusercontent.com/kyawpkmmvpn/pkmm/main/TH_TRUE_DTAC_NoDay_02.ovpn"
       }
 
 ],
